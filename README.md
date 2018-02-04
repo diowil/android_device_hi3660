@@ -1,7 +1,7 @@
-## TWRP device tree for Huawei Mate 9 (hi3660)
+## TWRP device tree for Huawei Mate 10 Pro 
 
 ```
-repo init -u https://github.com/omnirom/android.git -b android-7.1
+repo init -u https://github.com/omnirom/android.git -b android-8.1
 ```
 
 Then run `repo sync` to check it out.
